@@ -1,4 +1,3 @@
-# UDP-Socket-Client---Server
 # UDP Client-Server Project
 Group 9's submission for Programming Assignment 2 in Dr. Wang's CS576 @ SDSU
 
@@ -13,7 +12,7 @@ Group 9's submission for Programming Assignment 2 in Dr. Wang's CS576 @ SDSU
 - Python 3.x installed
 - Runs **locally** on `127.0.0.1`
 
-## **How to run the program**
+## **How to Run the Program**
 
 ### **Step 1: Start the Server**
 Open a terminal and run:
